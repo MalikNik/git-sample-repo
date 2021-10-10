@@ -8,3 +8,41 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+Scenario 2:
+Two people
+
+Person A ->Enhance the framework
+Person B ->Automating the test cases
+
+Person A ->Merge code to master
+Person B ->Pull from master to private branch, merge code to master
+
