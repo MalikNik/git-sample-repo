@@ -8,8 +8,6 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
-
-
 ------------------------------------------------------------------------
 Scenario 1:
 First Release ->Done
@@ -19,3 +17,13 @@ Second Release
 Third Release
 	1 Feature
 	1 Person
+
+-------------------------------------------------------------------------------
+Scenario 2:
+Two people
+
+Person A ->Enhance the framework
+Person B ->Automating the test cases
+
+Person A ->Merge code to master
+Person B ->Pull from master to private branch, merge code to master
